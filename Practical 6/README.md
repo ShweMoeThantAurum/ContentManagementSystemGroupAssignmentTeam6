@@ -1,9 +1,8 @@
 # Content
 * CP3402 Practical 6 Assignment 2
-  * [Getting Started](#Getting Started)
-  * [Project Links](#Project Links)
-  * [Explanation for the website](#Explanation for the website)
-  * [Content Strategy](#Content Strategy)
+  * [Getting Started](#Getting-Started)
+  * [Project Links](#Project-Links)
+  * [Meeting Details](#Meeting-Details)
  
 # Getting Started
  
