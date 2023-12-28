@@ -21,7 +21,7 @@ Our group name is Team 6. There are four members in our team who are as follows:
 
 
 As a team, we set [our code of conduct](https://docs.google.com/document/d/1kDKkVeRaLh9u8EgRC4VUBGRNnzZF26KD7whVBtHkiJ8/edit?usp=sharing) for our team.
-We also try to do daily meetings, which is inspired from SCRUM process.
+We also try to do [daily meetings](https://miro.com/welcomeonboard/OU00RWc1eENZeWJUbnd0aktVVmlBeVhWZERtcWIwVUo2azM3Y3R4ekZEZjVNbnpsUHRjZE1POUUzQTdnS25xYnwzNDU4NzY0NTQxOTQyODkzMzQwfDI=?share_link_id=231631393104), which is inspired from SCRUM process.
  
  
 # Project Links
