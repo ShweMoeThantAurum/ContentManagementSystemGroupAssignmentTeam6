@@ -1,10 +1,10 @@
 # Content
 * CP3402 Assignment 2
-  * [Getting Started](#Getting Started)
-  * [Group Details](#Group Details)
-  * [Project Links](#Project Links)
-  * [Explanation for the website](#Explanation for the website)
-  * [Content Strategy](#Content Strategy)
+  * [Getting Started](#Getting-Started)
+  * [Group Details](#Group-Details)
+  * [Project Links](#Project-Links)
+  * [Explanation for the website](#Explanation-for-the-website)
+  * [Content Strategy](#Content-Strategy)
  
 # Getting Started
  
