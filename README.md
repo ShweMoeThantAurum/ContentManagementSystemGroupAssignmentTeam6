@@ -63,7 +63,7 @@ Here are our content strategy to deploy such a website.
 
 # Meeting Details
 Our team did daily stand-up meetings. We met daily except weekends, meaning that we technically did four meetings for this week.
-* First Meeting's Summary - Business Objective and Ideation Session:
+### First Meeting's Summary - Business Objective and Ideation Session:
 During the first meeting, the team kicked off the project with introductions and a discussion of roles. The primary focus
 was on defining the core business objective, and through a collaborative brainstorming session, various ideas were explored.
 A SWOT analysis and affinity mapping exercise helped organize these thoughts. By the end of the day, the team had a clearer understanding
