@@ -14,10 +14,12 @@ This repository details how our group (team 6) creates a website, including fron
 # Group Details
  
 Our group name is Team 6. There are four members in our team who are as follows:
-1. Myat Pwint Phyu (14318723)
-2. Kaung Sat Paing (14399033)
-3. Zar Chi Oo (14211290)
-4. Shwe Moe Thant (14228423)
+1. [Myat Pwint Phyu (14318723)](https://www.linkedin.com/in/myat-pwint-phyu-67b587284/)
+2. [Kaung Sat Paing (14399033)](https://www.linkedin.com/in/kaung-sat-paing-2b02b825b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+3. [Zar Chi Oo (14211290)](https://www.linkedin.com/in/zarchioo/)
+4. [Shwe Moe Thant (14228423)](https://www.linkedin.com/in/shwe-moe-thant-454473223/)
+
+
 As a team, we set [our code of conduct](https://docs.google.com/document/d/1kDKkVeRaLh9u8EgRC4VUBGRNnzZF26KD7whVBtHkiJ8/edit?usp=sharing) for our team.
 We also try to do daily meetings, which is inspired from SCRUM process.
  
