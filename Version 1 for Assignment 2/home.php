@@ -30,6 +30,7 @@ Template Name: Home Page
             <li>Date: Event description</li>
             <!-- Add more events and descriptions -->
         </ul>
+        <p>This is for testing purpose.</p>
     </section>
 
     <section class="highlights">
