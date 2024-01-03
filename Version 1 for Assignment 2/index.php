@@ -28,6 +28,7 @@
         <section class="highlights">
             <h2>Highlights</h2>
             <p>Some key points about the university or special activities during the event.</p>
+            <p>Hi</p>
         </section>
 
         <section class="contact">
