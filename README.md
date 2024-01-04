@@ -5,6 +5,7 @@
   * [Project Links](#Project-Links)
   * [Explanation for the website](#Explanation-for-the-website)
   * [Content Strategy](#Content-Strategy)
+  * [Meeting Details](#Meeting-Details)
  
 # Getting Started
  
