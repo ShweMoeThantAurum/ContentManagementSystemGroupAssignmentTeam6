@@ -56,13 +56,13 @@ The project will follow a clearly defined timeline. Content audit and website pl
 # Content Strategy
 For the successful deployment of our University Open House website, we have implemented a content strategy aimed at creating an engaging and informative user experience:
 
-Rich Media Integration: We have integrated video content for each aspect of the Open House to enhance the learning experience. This not only caters to users who prefer visual demonstrations but also adds a dynamic element to the overall presentation.
+* **Rich Media Integration:** We have integrated video content for each aspect of the Open House to enhance the learning experience. This not only caters to users who prefer visual demonstrations but also adds a dynamic element to the overall presentation.
 
-Interactive Q&A Forum: To promote engagement, we've incorporated a Q&A forum where users can seek advice, share tips, and discuss ongoing projects. This interactive feature fosters a sense of community and collaboration among users.
+* **Interactive Q&A Forum:** To promote engagement, we've incorporated a Q&A forum where users can seek advice, share tips, and discuss ongoing projects. This interactive feature fosters a sense of community and collaboration among users.
 
-Seasonal and Occasional Recommendations: We ensure that our content recommendations remain timely and relevant by aligning them with seasonal themes and occasions. This approach keeps the website fresh and engaging throughout the year.
+* **Seasonal and Occasional Recommendations:** We ensure that our content recommendations remain timely and relevant by aligning them with seasonal themes and occasions. This approach keeps the website fresh and engaging throughout the year.
 
-Responsive WordPress Theme: The WordPress theme chosen for the website is responsive, ensuring a seamless user experience across various devices. This adaptability is crucial for reaching a wider audience and providing a consistent interface.
+* **Responsive WordPress Theme:** The WordPress theme chosen for the website is responsive, ensuring a seamless user experience across various devices. This adaptability is crucial for reaching a wider audience and providing a consistent interface.
 
 # Meeting Details
 Our team did daily stand-up meetings. We met daily except weekends, meaning that we technically did four meetings for this week.
