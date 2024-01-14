@@ -36,7 +36,7 @@ to create a website as team:
 
 # Explanation for the website
  
-**Website Name:** [James Cook University Open House] (https://cmsteam6.org/)
+**Website Name:** [James Cook University Open House](https://cmsteam6.org/)
 
 **Main Objective:** 
 The primary objective of the James Cook University website is to significantly enhance the user experience for individuals interested in the university, ultimately contributing to the increase in acceptance rates and entrance rates. Through a user-friendly and modern website design, improved navigation, enhanced content accessibility, and optimized load times, we aim to create a platform that not only aligns with the university's commitment to accessible education but also serves as a valuable resource for prospective students, faculty, and other stakeholders. This initiative seeks to attract and engage a diverse audience, positively impacting acceptance and entrance rates during the specified timeframe.
