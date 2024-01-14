@@ -55,6 +55,6 @@ to create a website as team:
 
 # Proof of Codes and Creating the website in Localhost
 
-You can read ["Proof of Codes and Hosting a Website in Localhost.pdf"](https://github.com/ShweMoeThantAurum/ContentManagementSystemGroupAssignmentTeam6/blob/main/Version%203%20for%20Assignment%202/Proof%20of%20Codes%20and%20Hosting%20a%20Website%20in%20Localhost.pdf) as a proof of our coding and actual doing in
+You can read ["Proof of Codes and Hosting a Website in Localhost.pdf"](https://github.com/ShweMoeThantAurum/ContentManagementSystemGroupAssignmentTeam6/tree/main/Version%201%20for%20Assignment%202) as a proof of our coding and actual doing in
 a localhost environment.
 
