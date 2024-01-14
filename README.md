@@ -54,35 +54,31 @@ The project will follow a clearly defined timeline. Content audit and website pl
  
  
 # Content Strategy
- 
-Here are our content strategy to deploy such a website.
-* Integrate video content for each project to enhance the learning experience and cater to users who prefer visual demonstrations.
-* Promote engagement through a Q&A forum where users can seek advice, share tips, and discuss their ongoing projects.
-* Provide timely and relevant project recommendations, aligning with seasonal themes and occasions.
-* Ensure the WordPress theme is responsive to provide a seamless experience for users accessing the platform from various devices.
-* Provide timely and relevant project recommendations, aligning with seasonal themes and occasions.
+For the successful deployment of our University Open House website, we have implemented a content strategy aimed at creating an engaging and informative user experience:
 
+*Rich Media Integration: We have integrated video content for each aspect of the Open House to enhance the learning experience. This not only caters to users who prefer visual demonstrations but also adds a dynamic element to the overall presentation.
+
+*Interactive Q&A Forum: To promote engagement, we've incorporated a Q&A forum where users can seek advice, share tips, and discuss ongoing projects. This interactive feature fosters a sense of community and collaboration among users.
+
+*Seasonal and Occasional Recommendations: We ensure that our content recommendations remain timely and relevant by aligning them with seasonal themes and occasions. This approach keeps the website fresh and engaging throughout the year.
+
+*Responsive WordPress Theme: The WordPress theme chosen for the website is responsive, ensuring a seamless user experience across various devices. This adaptability is crucial for reaching a wider audience and providing a consistent interface.
 
 # Meeting Details
 Our team did daily stand-up meetings. We met daily except weekends, meaning that we technically did four meetings for this week.
 #### First Meeting's Summary - Business Objective and Ideation Session:
-During the first meeting, the team kicked off the project with introductions and a discussion of roles. The primary focus
-was on defining the core business objective, and through a collaborative brainstorming session, various ideas were explored.
-A SWOT analysis and affinity mapping exercise helped organize these thoughts. By the end of the day, the team had a clearer understanding
-of the business goal and the challenges and opportunities associated with it.
+In our initial gathering, we set the stage for the project by introducing team members and defining their roles. The primary focus was on delineating the core business objective. Through collaborative brainstorming, we explored diverse ideas, conducted a SWOT analysis, and organized insights using affinity mapping. By the end of the day, the team had a comprehensive understanding of the business goal, along with a nuanced grasp of associated challenges and opportunities.
 
 #### Second Meeting's Summary - Content Strategy and Website Structure: 
-The second meeting delved into content strategy and the structure of the DIY Hub. The team identified and finalized content categories,
-ensuring they align with user needs. A workshop continued the ideation session, fleshing out features, content, and interactive elements.
-User personas were refined, empathy mapping was conducted, and the business objective was solidified based on the insights gained.
-The team collaboratively sketched the initial website structure, setting the foundation for an engaging user experience.
+Our second meeting delved into crafting the content strategy and structuring the Open House website. We identified and finalized content categories that aligned seamlessly with user needs. A workshop extended the ideation phase, detailing features, content, and interactive elements. User personas were refined, empathy mapping was conducted, and the business objective was solidified based on the insights gained. The team collaboratively sketched the initial website structure, laying the foundation for an engaging user experience.
 
 #### Third Meeting's Summary - Monetization Strategies and Business Model: 
-Monetization strategies took center stage on day three, as the team explored different avenues for sustaining the DIY Hub.
-Workshops on value propositions for advertisers and the overall business model helped align financial goals with user experience.
-The day concluded with a solid understanding of how the platform would generate revenue while staying true to its mission.
+Day three's focus was on exploring various monetization strategies to sustain the Open House website. Workshops on value propositions for advertisers and refining the overall business model were instrumental in aligning financial goals with the user experience. The day concluded with a solid understanding of how the platform would generate revenue while staying true to its mission.
  
 #### Fourth Meeting's Summary - Technology Stack and Development Workflow: 
-The fourth meeting focused on the technical aspects of the DIY Hub. The team conducted workshops to determine the technology stack,
-choosing tools and platforms that align with project goals. Discussions on the collaborative coding workflow and roles within the development
-team ensured a smooth development process. By the end of the day, the team had a clear plan for the technological foundation of the DIY Hub.
+Our final stand-up meeting delved into the technical aspects of the Open House website. We conducted workshops to determine the technology stack, selecting tools and platforms aligned with project goals. Discussions on collaborative coding workflows and defining roles within the development team ensured a smooth development process. By the end of the day, the team had a clear plan for the technological foundation of the Open House website.
+
+
+
+
+
