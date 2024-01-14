@@ -9,7 +9,7 @@
  
 # Getting Started
  
-This repository details how our group (team 6) creates a website, including front-end deployment and back-end deployment.
+This repository details how our group (team 6) creates a website, including front-end and back-end deployment, professional deployment workflows and which collaboration tools we have used. 
  
  
 # Group Details
