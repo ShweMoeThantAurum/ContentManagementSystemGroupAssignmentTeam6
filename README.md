@@ -6,6 +6,8 @@
   * [Explanation for the website](#Explanation-for-the-website)
   * [Content Strategy](#Content-Strategy)
   * [Meeting Details](#Meeting-Details)
+  * [Proof of Codes and Creating the website in Localhost](#Proof-of-Codes-and-Creating-the-website-in-Localhost)
+
  
 # Getting Started
  
@@ -78,7 +80,6 @@ Day three's focus was on exploring various monetization strategies to sustain th
 #### Fourth Meeting's Summary - Technology Stack and Development Workflow: 
 Our final stand-up meeting delved into the technical aspects of the Open House website. We conducted workshops to determine the technology stack, selecting tools and platforms aligned with project goals. Discussions on collaborative coding workflows and defining roles within the development team ensured a smooth development process. By the end of the day, the team had a clear plan for the technological foundation of the Open House website.
 
-
-
-
-
+# Proof of Codes and Creating the website in Localhost
+You might look through [Proof of Coding and Creating a Website in Localhost for Version 1](https://github.com/ShweMoeThantAurum/ContentManagementSystemGroupAssignmentTeam6/blob/main/Version%201%20for%20Assignment%202/Proof%20of%20Codes%20and%20Hosting%20a%20Website%20in%20Localhost.pdf),  [Proof of Coding and Creating a Website in Localhost for Version 2](https://github.com/ShweMoeThantAurum/ContentManagementSystemGroupAssignmentTeam6/tree/main/Version%202%20for%20Assignment%202), and 
+[Proof of Coding and Creating a Website in Localhost for Version 1](https://github.com/ShweMoeThantAurum/ContentManagementSystemGroupAssignmentTeam6/blob/main/Version%203%20for%20Assignment%202/Proof%20of%20Codes%20and%20Hosting%20a%20Website%20in%20Localhost.pdf) as proving of our coding and actual testing the website in localhost environment.
