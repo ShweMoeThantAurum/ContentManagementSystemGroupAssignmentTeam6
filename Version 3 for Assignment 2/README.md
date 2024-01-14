@@ -14,6 +14,8 @@ This repository details how our group (team 6) creates a website, including fron
 The final Open House website is a meticulously crafted platform designed to provide a seamless and engaging experience for 
 event attendees. Our overarching goal was to create a user-friendly space that not only met the functional requirements
 but also embodied the spirit and essence of James Cook University.
+
+
 **Key Features and Objectives:**
 * Smart Registration Process: The inclusion of a prominent "Register Now" button serves as a direct pathway to achieving 
 our measurable objective of increasing event participation. This feature streamlines the registration process for attendees. 
