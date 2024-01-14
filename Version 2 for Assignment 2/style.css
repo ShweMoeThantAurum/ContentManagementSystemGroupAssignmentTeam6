@@ -1,0 +1,321 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+    list-style: none;
+    scroll-behavior: auto;
+    font-family: 'Comic Sans MS', cursive;
+}
+
+html::-webkit-scrollbar-track {
+    background: #F0F0F0;
+}
+
+html::-webkit-scrollbar-thumb {
+    background: #F00;
+    border-radius: 20px;
+}
+
+html::-webkit-scrollbar {
+    width: 20px;
+}
+
+/* Navbar Start */
+#navbar {
+    background: #999;
+    padding: 5px 5%;
+}
+
+#logo img {
+    width: 50px;
+    margin-top: 50px;
+}
+
+.nav-item .nav-link {
+    color: #666;
+    font-size: 12px;
+    transition: 0.1s;
+}
+
+.nav-item .nav-link:hover {
+    color: #F00;
+}
+/* Navbar End */
+
+/* Home Section Start */
+.home {
+    width: 100%;
+    height: 50vh;
+    padding: 5px 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: relative;
+    z-index: -1;
+}
+
+.home .img {
+    flex: 1 1 100px;
+}
+
+.home .img img {
+    width: 50%;
+    border-radius: 5%;
+}
+
+.home-content {
+    flex: 1 1 100px;
+    margin-top: 10px;
+}
+
+.home-content h3 {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.home-content h3 span {
+    color: #F00;
+}
+
+#home-btn {
+    padding: 5px;
+    text-decoration: underline;
+    background: #F00;
+    color: #000;
+    border-radius: 2px;
+    font-size: 12px;
+    transition: 0.1s;
+}
+
+#home-btn:hover {
+    background: #999;
+}
+@media screen and (max-width: 873px) {
+    .home .img img {
+        margin-left: 0;
+    }
+}
+/* Home Section End */
+
+/* Top Section Start */
+.top-section {
+    padding: 10px 5%;
+    margin-top: 1em;
+}
+
+.card-body h1 {
+    color: #F00;
+}
+
+.top-section #card1 img,
+.top-section #card3 img {
+    width: 30%;
+}
+
+.top-section h5 {
+    color: #FFD700;
+    text-align: center;
+}
+
+.top-section h3 {
+    color: #000;
+    text-align: center;
+    font-weight: 300;
+}
+
+.top-section h3 span {
+    color: #F00;
+    font-size: 16px;
+}
+
+.top-section .row {
+    margin-top: 20px;
+    align-items: center;
+}
+
+.top-section .row .card {
+    border: 2px dashed #000;
+}
+
+.top-section .row .card img {
+    width: 70px;
+    margin: auto;
+}
+
+.top-section .card-body {
+    text-align: center;
+}
+
+.top-section .card-body h1 {
+    font-size: 10px;
+    font-weight: 300;
+}
+/* Top Section End */
+
+/* Our Menu Start */
+.menu {
+    padding: 10px 5%;
+    margin-top: 10px;
+}
+
+.menu h5 {
+    color: #FFD700;
+    text-align: center;
+}
+
+.menu h3 {
+    color: #000;
+    text-align: center;
+    font-weight: 300;
+}
+
+.menu h3 span {
+    color: #F00;
+    font-size: 16px;
+}
+
+.menu .row {
+    margin-top: 20px;
+    align-items: center;
+}
+
+.menu .row .card {
+    border: 2px dashed #000;
+}
+
+.menu .row .card img {
+    width: 50px;
+    margin: auto;
+}
+
+.menu .card-body {
+    text-align: center;
+}
+
+.menu .card-body h1 {
+    font-size: 10px;
+    font-weight: 300;
+}
+
+.menu p {
+    font-size: 16px;
+}
+/* Our Menu End */
+
+/* Order Section Start */
+.order {
+    padding: 10px 10%;
+}
+
+.heading {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.heading span {
+    color: #F00;
+}
+
+#order p {
+    font-size: 10px;
+    text-align: center;
+    color: #F00;
+}
+
+.order textarea {
+    resize: none;
+}
+
+.order-btn {
+    padding: 5px 10px;
+    background: #F00;
+    border: 2px dashed #F00;
+    border-radius: 2px;
+    color: #000;
+    transition: 0.1s;
+    cursor: not-allowed;
+    font-size: 12px;
+    margin: 0.5em auto;
+    display: block;
+}
+
+.order-btn:hover {
+    background: #999;
+    border: 2px dashed #999;
+}
+/* Order Section End */
+
+/* Section Gallery Start */
+.gallery {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.gallery .card {
+    border-radius: 5px;
+}
+
+.gallery .card img {
+    border-radius: 5px;
+    transition: 0.1s;
+}
+
+.gallery .card img:hover {
+    transform: scale(0.9);
+}
+
+.main-txt h1 {
+    color: #F00;
+    text-align: center;
+}
+/* Section Gallery End */
+
+/* Admission Section Start */
+.admissions {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: 0.5em;
+}
+
+.admissions-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.admissions-text {
+    color: #F00;
+}
+
+#admissionscontent {
+    color: #000;
+    font-size: 10px;
+}
+
+.admissions p {
+    text-align: center;
+    color: #F00;
+    font-size: 12px;
+}
+
+.check-btn {
+    padding: 5px 10px;
+    background: #F00;
+    border: 2px dashed #F00;
+    border-radius: 2px;
+    color: #000;
+    transition: 0.1s;
+    cursor: not-allowed;
+    font-size: 12px;
+    margin: 0.5em auto;
+    display: block;
+}
+
+.check-btn:hover {
+    background: #999;
+    border: 2px dashed #999;
+}
+/* Admission Section End */
