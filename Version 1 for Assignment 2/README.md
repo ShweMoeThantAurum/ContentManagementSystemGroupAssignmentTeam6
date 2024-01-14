@@ -4,6 +4,8 @@
   * [Explanation for the website](#Explanation-for-the-website)
   * [Group Details](#Group-Details)
   * [Project Links](#Project-Links)
+  * [Proof of Codes and Creating the website in Localhost](#Proof-of-Codes-and-Creating-the-website-in-Localhost)
+
  
 # Getting Started
  
@@ -50,3 +52,9 @@ to create a website as team:
 1. [GitHub Repository](https://github.com/ShweMoeThantAurum/ContentManagementSystemGroupAssignmentTeam6)
 2. [Trello](https://trello.com/b/K4nnWSkQ/team-6)
 3. [Slack](https://join.slack.com/t/namethegroup/shared_invite/zt-29hsfnftw-c_owSNMwG86oE4wNrx7dtQ)
+
+# Proof of Codes and Creating the website in Localhost
+
+You can read ["Proof of Codes and Hosting a Website in Localhost.pdf"](https://github.com/ShweMoeThantAurum/ContentManagementSystemGroupAssignmentTeam6/blob/main/Version%203%20for%20Assignment%202/Proof%20of%20Codes%20and%20Hosting%20a%20Website%20in%20Localhost.pdf) as a proof of our coding and actual doing in
+a localhost environment.
+
